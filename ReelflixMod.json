@@ -70,6 +70,13 @@
     "allowOffline": true
   },
   {
+    "id": "146e6551a25470e7",
+    "username": "6282128661992",
+    "password": "reelflix",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
